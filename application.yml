@@ -1,4 +1,6 @@
-
+spring:
+application:
+  name: CONFIG-DEFAULT
 eureka:
   client:
     register-with-eureka: false # Indicates whether this instance registers itself with the Eureka server
